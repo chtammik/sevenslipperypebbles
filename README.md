@@ -7,21 +7,21 @@ This is an auditory memory game.
 - 1) Choose an integer number X which defines the length of each round.
 
 - 2) A player (player A) starts by choosing a number between 1 and X.
-- > Player A could be the person that makes the radest sound effect in a test round, or anyone really.
+	> Player A could be the person that makes the radest sound effect in a test round, or anyone really.
 
 - 3) That player then replaces their chosen integer with a description of a sound. 
-- > It can be any sound.
+	> It can be any sound.
 
 - 4) The player left to the player A then starts the game by saying "one".
 
 - 5) From there on the players continue to count upwards. 
 
 - 6) Once the chosen integer number is reached, that player player B replaces it with an audible interpretation of the description.
-- > The number that was replaced by that sound should be reflected in some form or fashion.
-- > The sound can be produced with their mouth, a nearby object... etc.
-- > Hilarity ensues.
-- > If all players forget what sound should be made for that particular number the number is replaced with a reset sound.
-- > If all sounds are reset sounds the game ends.
+	> The number that was replaced by that sound should be reflected in some form or fashion.
+	> The sound can be produced with their mouth, a nearby object... etc.
+	> Hilarity ensues.
+	> If all players forget what sound should be made for that particular number the number is replaced with a reset sound.
+	> If all sounds are reset sounds the game ends.
 
 - 7) The counting continues until X is reached.
 
