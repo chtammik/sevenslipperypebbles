@@ -1,5 +1,4 @@
-# sevenslipperypebbles
-SPB - Seven Slippery Pebbles
+# SPB - Seven Slippery Pebbles
 
 This is an auditory memory game.
 
