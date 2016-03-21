@@ -4,13 +4,13 @@ SPB - Seven Slippery Pebbles
 
 This is an auditory memory game.
 
-1) Choose an integer number X which defines the length of each round.
+- 1)Choose an integer number X which defines the length of each round.
 
-2) A player (player A) starts by choosing a number between 1 and X.
-- Player A could be the person that makes the radest sound effect in a test round, or anyone really.
+- 2)A player (player A) starts by choosing a number between 1 and X.
+- > Player A could be the person that makes the radest sound effect in a test round, or anyone really.
 
-3)	> That player then replaces their chosen integer with a description of a sound. 
-	> It can be any sound.
+- That player then replaces their chosen integer with a description of a sound. 
+- > It can be any sound.
 
 4)	> The player left to the player A then starts the game by saying "one".
 
