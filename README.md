@@ -1,4 +1,4 @@
-# SPB - Seven Slippery Pebbles
+# Seven Slippery Pebbles
 
 This is an auditory memory game.
 
@@ -37,7 +37,7 @@ This is an auditory memory game.
 	
 	> When this occurs, celebrate.
 
-Bonus Rules:	
+# Bonus Rules:	
 
 	> Super Sound Designer Mode
 		All sounds have to be recorded with a decent microphone.
@@ -67,7 +67,7 @@ Bug reports may be submitted to cristopher@tammik.ca.
 
 There are plans to integrate digital technology to record, archive and share games played.
 
-App ideas:
+# App ideas:
 
 	> Keeping track of numbers and the assigned descriptions
 		may be hidden to enhance difficulty
