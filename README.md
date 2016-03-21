@@ -59,9 +59,13 @@ Bonus Rules:
 		sounds may/must be created using a digital audio workstation (REAPER, Audacity, Protools or any other).
 
 This game is still in development.
+
 The developers are not responsible for any damage that occurs as a result of playing this game.
+
 Suggestions for improvement or additional rules are welcome.
-Bug reports may be submitted to cristopher@tammik.ca
+
+Bug reports may be submitted to cristopher@tammik.ca.
+
 There are plans to integrate digital technology to record, archive and share games played.
 
 App ideas:
@@ -79,4 +83,5 @@ App ideas:
 		possibly in the format <desc><sound><desc><sound><sound><sound><desc><sound><sound> for a game where X=3
 
 Presented in text form by Em Halberstadt and Chris Tammik.
+
 Concept by Andreas Hamm, Bendik Hodahl, Chris Tammik, Em Halbrstadt, Gijs Driesenaar, sJordan Bean and Mark Hertensteiner.
