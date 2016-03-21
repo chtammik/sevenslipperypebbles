@@ -18,7 +18,7 @@ This is an auditory memory game.
 
 - From there on the players continue to count upwards. 
 
-- 6) Once the chosen integer number is reached, that player player B replaces it with an audible interpretation of the description.
+6) Once the chosen integer number is reached, that player player B replaces it with an audible interpretation of the description.
 	> The number that was replaced by that sound should be reflected in some form or fashion.
 	
 	> The sound can be produced with their mouth, a nearby object... etc.
