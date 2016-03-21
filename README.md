@@ -81,6 +81,8 @@ There are plans to integrate digital technology to record, archive and share gam
 		This might include uploading a compilation of a game to some web service
 		possibly in the format <desc><sound><desc><sound><sound><sound><desc><sound><sound> for a game where X=3
 
+# Credits:
+
 Presented in text form by Em Halberstadt and Chris Tammik.
 
 Concept by Andreas Hamm, Bendik Hodahl, Chris Tammik, Em Halbrstadt, Gijs Driesenaar, sJordan Bean and Mark Hertensteiner.
